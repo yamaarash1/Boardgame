@@ -1,6 +1,6 @@
-How to play 
+# How to play 
 
-# Hamlet
+## Hamlet
 ```
 $ java Hamlet
    |   |   |   |   |   
@@ -19,7 +19,7 @@ $ java Hamlet
 選択してください: 1
 ```
 
-# 五目並べ
+## 五目並べ
 ```
 $ java TicTacToe
 java TicTacToe
